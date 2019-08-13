@@ -8,5 +8,3 @@ eu tinha esquecido de falar o que eu queria falar
 ## Existe um arquivo com a lista de linguagns que programo
 
 As minhas experimentacoes
-
-ashashahSu128129as98asa
