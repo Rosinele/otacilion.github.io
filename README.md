@@ -1,14 +1,12 @@
-# Este é o meu primeiro repositorio git
+# Otacilio Maia
 
-Neste repositorio coloquei o meu portfolio de desenvolvedor
+## Sobre
 
-Agora eu quero falar mais sobre mim, e o que eu quero falar é que
-eu tinha esquecido de falar o que eu queria falar
+Olá, eu sou o Otacilio Maia e adoro Git e GitHub.
 
-## Existe um arquivo com a lista de linguagns que programo
+Se voce quiser saber mais sobre mim, pode acessar [meu site](www.otaciliomaia.com)
 
-As minhas experimentacoes
+## Cursos do Platzi que fiz
 
-Resolvi um bug que tinha nessa linha
-
-Estou muito animado com essa aula de Git e GitHub
+- Git e GitHub
+- Desenvolvimento Web
